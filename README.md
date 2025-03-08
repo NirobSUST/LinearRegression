@@ -113,7 +113,7 @@ In this project, we:
 
 Below are the printed outputs from the training and evaluation process:
 
-```markdown
+
 Iteration 0: Cost 110.1334  
 Iteration 100: Cost 15.6080  
 Iteration 200: Cost 3.2521  
@@ -130,6 +130,7 @@ Optimized Theta Parameters: [14.04142097 3.83093398 2.79851601 0.06385596]
 Model Evaluation on Test Data:  
 Mean Squared Error: 3.1757  
 R² Score: 0.8994
+
 
 
 ### Analysis of the Outputs
